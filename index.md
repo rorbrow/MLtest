@@ -3,6 +3,9 @@ For our group project, we are trying to accurately predict whether or not a NFL 
 
 ## Background
 By creating a model that provides teams with a reasonable estimation on whether or not they will make it into the playoffs, we are providing actionable information. Teams need these predictions to make changes to their roster, budget, as well as decide whether or not to settle for a higher draft pick. For example, if a team uses this model to find out that they are most likely not making it into the playoffs, the administration can focus on trading players to better position the team for the following season. In regards to budgetting, this model could help teams prepare the stadium for Playoff season by allowing them to account for those preparations in their budget weeks in advance. Because of the structure setup by the NFL, teams do not get to keep the money from ticket sales during the playoff season. Therefore, teams can actually lose money during the playoffs; therefore, a model that can predict if a team will need to account for an increase in spending after the regular season would benefit NFL teams immensely. Also, if a team is not predicted to make the playoffs by week 9, then the team could spend less money picking up players to save the current season. Instead, those teams can save money and finish with more losses. This will enable those teams to pick players ealier in the draft; therefore, they can get the best talent coming into the league. 
+
+## Data Collection
+
  
 
 
